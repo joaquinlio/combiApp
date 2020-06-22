@@ -35,7 +35,7 @@ export const Buscador = (props) => {
         },
       }}
       query={{
-        key: 'AIzaSyCOTJJEIpdf0ahq6g5FWcSxvpPQLRas2P0',
+        key: ' ',
         language: 'es',
         components: 'country:ar',
       }}
